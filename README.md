@@ -1,6 +1,6 @@
 # RoTracker
 Profile status tracker stamped with time.
-# Required Library:
+# Required Modules:
 - urllib
 - beautifulsoup4
 - datetime
