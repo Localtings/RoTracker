@@ -14,7 +14,7 @@ pip install -U -r requirements.txt
 
 
 
-https://user-images.githubusercontent.com/85951918/132312757-1b4d37de-2a2a-4576-8a63-c0f04b952dbc.mp4
+
 
 
 
