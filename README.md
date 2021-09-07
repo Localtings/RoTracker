@@ -1,3 +1,7 @@
+
+
+
+
 # RoTracker
 Profile status tracker stamped with time.
 # Requirements
@@ -12,11 +16,7 @@ pip install -U -r requirements.txt
 # How to use:
 1. Open RoTracker folder then type cmd in the Windows searchbar:
 
-
-
-
-
-
+https://user-images.githubusercontent.com/85951918/132328996-47ff6e22-cf37-40be-a32e-fd2e3d9de60d.mp4
 
 2. Enter the following command(s):
 - Track Status (Updates when user's status changes):
