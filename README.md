@@ -1,9 +1,9 @@
 # RoTracker
 Profile status tracker stamped with time.
 # Requirements
-- Python 3.8 is recommended (Learn how to install it here: https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013)
+- Python 3.8 is recommended (Learn how to install it [here](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013))
 # Required Modules:
-If you don't know how to install python modules, learn how to pip install requirements here: https://note.nkmk.me/en/python-pip-install-requirements/
+If you don't know how to install python modules, learn how to pip install requirements [here](https://note.nkmk.me/en/python-pip-install-requirements/)
 
 Pip install command:
 ```
