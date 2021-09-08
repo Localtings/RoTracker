@@ -3,7 +3,7 @@
 
 
 # RoTracker
-Profile status tracker stamped with time.
+Profile status tracker stamped with time. A great simple program for tracking down people on Roblox. 
 # Requirements
 - Python 3.8 is recommended (Learn how to install it [here](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013))
 # Required Modules:
